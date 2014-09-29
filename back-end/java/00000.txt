@@ -1,0 +1,25 @@
+#DSA
+Node编号:100600
+RMI服务IP：  
+RMI服务Port: 10202
+(本地配置文件)统计查询服务RMI名称：   StatementQueryServer
+(本地配置文件)统计查询服务RMI实现类:  com.lc.dsa.rmi.rp.StatementQueryServicerImpl
+(DA节点)
+DA节点RMI服务IP：  
+DA节点RMI服务Port: 10201
+
+#RPWebService
+Node编号:100350
+WebService服务IP：
+WebService服务Port: 20666
+
+(根据查询的KEY动态获取)DSA节点RMI服务IP：
+(根据查询的KEY动态获取)DSA节点RMI服务Port: 10202
+(节点配置下发)DA节点RMI服务IP：
+(节点配置下发)DA节点RMI服务Port: 10201
+
+
+--------------- end --------------
+
+
+
